@@ -364,4 +364,3 @@ class LIFSpike(nn.Module):
         return out
 
 
-
